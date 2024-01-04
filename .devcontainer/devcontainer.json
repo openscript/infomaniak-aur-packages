@@ -1,0 +1,5 @@
+
+{
+	"name": "infomaniak-aur-packages",
+	"image": "ghcr.io/openscript/devcontainers:archlinuxbase-devel-20240101.0.204074"
+}
