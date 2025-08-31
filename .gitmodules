@@ -1,0 +1,9 @@
+[submodule "packages/kdrive-appimage"]
+	path = packages/kdrive-appimage
+	url = ssh://aur@aur.archlinux.org/kdrive-appimage.git
+[submodule "packages/kchat-appimage"]
+	path = packages/kchat-appimage
+	url = ssh://aur@aur.archlinux.org/kchat-appimage.git
+[submodule "packages/kmeet-appimage"]
+	path = packages/kmeet-appimage
+	url = ssh://aur@aur.archlinux.org/kmeet-appimage.git
