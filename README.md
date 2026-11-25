@@ -7,7 +7,7 @@ This repo builds packges for AUR.
 | Application name                                    | AUR                                                          | Current version | AppImage path                                                                             |
 | --------------------------------------------------- | ------------------------------------------------------------ | --------------- | ----------------------------------------------------------------------------------------- |
 | [kChat](https://www.infomaniak.com/en/kchat)        | [kChat](https://aur.archlinux.org/packages/kchat-appimage)   | 3.5.3           | https://download.storage5.infomaniak.com/kchat/kchat-desktop-3.5.3-linux-x86_64.AppImage  |
-| [kDrive](https://www.infomaniak.com/en/kdrive)      | [kDrive](https://aur.archlinux.org/packages/kdrive-appimage) | 3.8.8.1         | https://download.storage.infomaniak.com/drive/desktopclient/kDrive-3.8.8.1-amd64.AppImage |
+| [kDrive](https://www.infomaniak.com/en/kdrive)      | [kDrive](https://aur.archlinux.org/packages/kdrive-appimage) | 3.8.9.2         | https://download.storage.infomaniak.com/drive/desktopclient/kDrive-3.8.9.2-amd64.AppImage |
 | [kMeet](https://www.infomaniak.com/en/ksuite/kmeet) | [kMeet](https://aur.archlinux.org/packages/kmeet-appimage)   | 2.1.0           | https://download.storage.infomaniak.com/meet/kmeet-desktop-2.1.0-linux-x86_64.AppImage    |
 
 
